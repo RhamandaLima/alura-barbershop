@@ -244,3 +244,15 @@ td, th {
 main > p {
     background: red;
 }
+
+img + p {
+    background: blue;
+}
+
+img ~ p {
+    background: yellow;
+}
+
+.principal p:not(#missao) {
+    background: orange;
+}
