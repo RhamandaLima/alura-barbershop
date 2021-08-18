@@ -241,6 +241,6 @@ td, th {
     margin: 2em auto;
 }
 
-main p {
+main > p {
     background: red;
 }
