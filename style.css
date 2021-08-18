@@ -212,7 +212,7 @@ td, th {
 
 }
 
-.itens:first-child {
+.itens:nth-child(2n) {
     font-weight: bold;
 }
 
