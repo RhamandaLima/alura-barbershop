@@ -1,10 +1,10 @@
 # ALURA'S BARBERSHOP PROJECT
 
-## About
+## ABOUT
 
 This repository is for my **studies** on **_HTML5 and CSS3_** through the **Beginner Programming Training** on the **Alura** study platform, in which a website project was developed with the objective of starting my studies for **_front-end web development_**. 
 
-## Methodology
+## METHODOLOGY
 
 The development of the project was divided into 4 courses: 
 
@@ -54,8 +54,10 @@ In part 3 of the Alura Barbershop project, I developed complex forms that addres
 
 Finally, in the 4th and last part of the project I worked with advanced CSS, as it was possible to import external content, such as fonts, videos and maps. Furthermore, I worked with pseudo-classes and pseudo-elements, advanced CSS selectors, viewport and responsive design.
 
-## Result
+## RESULT
 
 ### index.html:
 
-![index-1](/relative/path/to/img.jpg?raw=true)
+<h1 align = "center">
+  <img src="index-1.png"/>
+</h1>
