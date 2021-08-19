@@ -58,6 +58,6 @@ Finally, in the 4th and last part of the project I worked with advanced CSS, as 
 
 ### index.html:
 
-<h1 align = "center">
+<h1>
   <img src="index-1.png"/>
 </h1>
