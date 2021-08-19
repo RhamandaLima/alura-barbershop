@@ -35,7 +35,7 @@ In the basic structure, the teacher taught about structuring with the use of tag
     <p><em>Nossa missão é: <strong>"Proporcionar autoestima e qualidade de vida aos clientes"</strong>.</em></p>
 
     <p>Oferecemos profissionais experientes e antenados às mudanças no mundo da moda. O atendimento possui padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos clientes.</p>
-
+    
 </html>
 
 In addition, the use of CSS3 was presented, along with the teaching of hex colors, image display, lists, classes and content division, as well as the insertion of the header in HTML5. 
@@ -53,6 +53,15 @@ In part 3 of the Alura Barbershop project, I developed complex forms that addres
 ### HTML5 and CSS3 part 4: Advanced CSS
 
 Finally, in the 4th and last part of the project I worked with advanced CSS, as it was possible to import external content, such as fonts, videos and maps. Furthermore, I worked with pseudo-classes and pseudo-elements, advanced CSS selectors, viewport and responsive design.
+
+## 🛠 TECHNOLOGIES
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [HTML5](https://html.com/)
+- [CSS3](https://www.w3.org/Style/CSS/Overview.en.html)
+
 
 ## RESULT
 
@@ -82,18 +91,18 @@ Finally, in the 4th and last part of the project I worked with advanced CSS, as 
 
 ### Responsive webpage:
 
-#### Página inicial responsiva
+#### Responsive homepage
 <img src="index-responsivo1.png"/>
 <img src="index-responsivo2.png"/>
 <img src="index-responsivo3.png"/>
 <img src="index-responsivo4.png"/>
 
-#### Página de produtos responsiva
+#### Responsive product page
 <img src="produtos-responsivo1.png"/>
 <img src="produtos-responsivo2.png"/>
 <img src="produtos-responsivo3.png"/>
 
 
-#### Página de contato responsiva
+#### Responsive contact page
 <img src="contato-responsivo1.png"/>
 <img src="contato-responsivo2.png"/>
