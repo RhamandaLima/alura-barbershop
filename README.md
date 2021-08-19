@@ -80,22 +80,19 @@ Finally, in the 4th and last part of the project I worked with advanced CSS, as 
 </h1>
 
 
-### Responsive webpage
+### Responsive webpage:
 
-<h1>
-  <img title="Página inicial responsiva 1:" src="index-responsivo1.png"/>
-  <img title="Página inicial responsiva 2:" src="index-responsivo2.png"/>
-  <img title="Página inicial responsiva 3:" src="index-responsivo3.png"/>
-  <img title="Página inicial responsiva 4:" src="index-responsivo4.png"/>
-</h1>
+<p align = "center">Página inicial responsiva</p>
+<img src="index-responsivo1.png"/>
+<img src="index-responsivo2.png"/>
+<img src="index-responsivo3.png"/>
+<img src="index-responsivo4.png"/>
 
-<h1>
+<p>Página de produtos responsiva</p>
   <img title="Página de produtos responsiva 1:" src="produtos-responsivo1.png"/>
   <img title="Página de produtos responsiva 2:" src="produtos-responsivo2.png"/>
   <img title="Página de produtos responsiva 3:" src="produtos-responsivo3.png"/>
-</h1>
 
-<h1>
-  <img title="Página de contato responsiva 1:" src="contato-responsivo1.png"/>
-  <img title="Página de contato responsiva 2:" src="contato-responsivo2.png"/>
-</h1>
+<p>Página de contato responsiva</p>
+<img src="contato-responsivo1.png"/>
+<img src="contato-responsivo2.png"/>
