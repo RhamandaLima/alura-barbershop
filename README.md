@@ -9,10 +9,10 @@ This repository is for my **studies** on **_HTML5 and CSS3_** through the **Begi
 The development of the project was divided into 4 courses: 
 
 <!--ts-->
-   * [HTML5 and CSS3 part 1: The first web page](#course-1)
-   * [HTML5 and CSS3 part 2: Positioning, lists and navigation](#course-2)
-   * [HTML5 and CSS3 part 3: Working with forms and tables](#course-3)
-   * [HTML5 and CSS3 part 4: Advanced CSS](#course-4)
+   * HTML5 and CSS3 part 1: The first web page
+   * HTML5 and CSS3 part 2: Positioning, lists and navigation
+   * HTML5 and CSS3 part 3: Working with forms and tables
+   * HTML5 and CSS3 part 4: Advanced CSS
 <!--te-->
 
 ### HTML5 and CSS3 part 1: The first web page
