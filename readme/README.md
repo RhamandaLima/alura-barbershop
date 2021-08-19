@@ -60,4 +60,21 @@ Finally, in the 4th and last part of the project I worked with advanced CSS, as 
 
 <h1>
   <img src="index-1.png"/>
+  <img src="index-2.png"/>
+  <img src="index-3.png"/>
+  <img src="index-4.png"/>
+</h1>
+
+### produtos.html:
+
+<h1>
+  <img src="produtos-1.png"/>
+  <img src="produtos-2.png"/>
+</h1>
+
+### produtos.html:
+
+<h1>
+  <img src="contato-1.png"/>
+  <img src="contato-2.png"/>
 </h1>
