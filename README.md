@@ -88,8 +88,9 @@ As seguintes ferramentas foram usadas na construção do projeto:
   <img src="contato-2.png"/>
 </h1>
 
-
 ### Responsive webpage:
+
+The teacher requested that the responsivity of the product and contact pages be executed by the students. So I turned the code responsive in the following way:
 
 #### Responsive homepage
 <img src="index-responsivo1.png"/>
@@ -101,7 +102,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <img src="produtos-responsivo1.png"/>
 <img src="produtos-responsivo2.png"/>
 <img src="produtos-responsivo3.png"/>
-
 
 #### Responsive contact page
 <img src="contato-responsivo1.png"/>
