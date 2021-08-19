@@ -82,17 +82,18 @@ Finally, in the 4th and last part of the project I worked with advanced CSS, as 
 
 ### Responsive webpage:
 
-<h1>Página inicial responsiva</h1>
+#### Página inicial responsiva
 <img src="index-responsivo1.png"/>
 <img src="index-responsivo2.png"/>
 <img src="index-responsivo3.png"/>
 <img src="index-responsivo4.png"/>
 
-<h1>Página de produtos responsiva</h1>
+#### Página de produtos responsiva
 <img src="produtos-responsivo1.png"/>
 <img src="produtos-responsivo2.png"/>
 <img src="produtos-responsivo3.png"/>
 
-<h1>Página de contato responsiva</h1>
+
+#### Página de contato responsiva
 <img src="contato-responsivo1.png"/>
 <img src="contato-responsivo2.png"/>
