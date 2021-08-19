@@ -81,7 +81,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
   <img src="produtos-2.png"/>
 </h1>
 
-### produtos.html:
+### contato.html:
 
 <h1>
   <img src="contato-1.png"/>
